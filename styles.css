@@ -12180,7 +12180,7 @@ html .content_wrapper {
   }
   .intsec_cluster_cont1 .right_side {
     padding: 4rem 3rem 1rem 3rem;
-    background-position: right bottom -13rem;
+    background-position: right bottom;
   }
   .intsec_cluster_cont1 .right_side_tit {
     line-height: 110%;
